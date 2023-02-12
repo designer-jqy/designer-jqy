@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=designer-              jqy&count_private=true&include_all_commits=true&show_icons=true&custom     _title=Vitamin%20C%27s%20Github%20status" />
+</p>
