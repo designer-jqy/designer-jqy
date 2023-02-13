@@ -16,7 +16,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings/gitblock.json
-      - name: Commit & Push
+     - run: mv ./profile-3d-contrib/* ./ && rmdir profile-3d-contrib
+     - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
