@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](./profile-custom-gitblock.svg)
 
 
-[![Vitamin C's GitHub stats](https://github-readme-stats.vercel.app/api?username=designer-jqy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vitamin C's GitHub stats](https://github-readme-stats.vercel.app/api?username=designer-jqy&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=designer-jqy&count_private=true&include_all_commits=true&show_icons=true&custom_title=Vitamin%20C%27s%20Github%20status" />
