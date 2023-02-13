@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=designer-jqy&count_private=true&include_all_commits=true&show_icons=true&custom_title=Vitamin%20C%27s%20Github%20status" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=designer-jqy&count_private=true&include_all_commits=true&show_icons=true&custom_title=Vitamin%20C%27s%20Github%20status" />
 </p>
